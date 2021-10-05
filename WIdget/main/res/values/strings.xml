@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pilih SMA impianmu</string>
+
+    //untuk menginputkan data
+    <string-array name="sma">
+        <item>SMA Hang Tuah 5 Sidoarjo</item>
+        <item>SMA Negeri 1 Sidoarjo</item>
+        <item>SMA Muhammadiyah 2 Sidoarjo</item>
+        <item>SMA 1 Krembung</item>
+    </string-array>
+</resources>

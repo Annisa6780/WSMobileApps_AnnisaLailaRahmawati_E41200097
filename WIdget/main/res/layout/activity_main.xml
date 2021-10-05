@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#06D6A0"
+    tools:context=".MainActivity">
+
+
+    //mengatur tata letak text
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="serif-monospace"
+        android:gravity="center"
+        android:text="Hai Selamat Datang"
+        android:textSize="50dp"
+        android:textStyle="italic"
+        android:textColor="#118AB2"/>
+
+    //mengatur tata letak text
+    <EditText
+        android:id="@+id/Username"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:padding="15dp"
+        android:hint="Masukkan nama lengkap"
+        android:textColor="#073B4C"
+        android:inputType="text"
+        />
+
+    //mengatur tata letak text
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Asal Sekolah"
+        android:textSize="25dp"
+        android:textColor="#073B4C"
+        android:padding="5dp"
+        android:paddingLeft="10dp"
+        />
+
+    //mengatur tata letak auto complete text view
+    <AutoCompleteTextView
+        android:id="@+id/actv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="3dp"
+        android:completionThreshold="1"
+        />
+
+    //mengatur tata letak text
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="SMA Impian"
+        android:textSize="25dp"
+        android:textColor="#073B4C"
+        android:padding="5dp"
+        android:paddingLeft="10dp"
+        />
+
+    //mengatur tata letak spinner
+    <Spinner
+        android:id="@+id/spinner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="SMA Impian"
+        android:textColor="#073B4C"
+        android:textSize="30sp"
+        android:padding="5dp"
+        />
+
+
+    //mengatur tata letak text
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Jurusan"
+        android:paddingTop="5dp"
+        android:paddingLeft="10dp"
+        android:textSize="25dp"
+        android:textColor="#073B4C"
+        />
+
+    //mengatur tata letak dari list view
+    <ListView
+        android:id="@+id/lvJur"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        />
+
+    //mengatur tata letak dari button
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text="Save"
+        android:background="@drawable/ic_launcher_background"
+        />
+
+</LinearLayout>
