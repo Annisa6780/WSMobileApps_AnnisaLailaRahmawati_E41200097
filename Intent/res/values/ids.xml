@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="spinner">Pilih program bimbel</string>
+        <string-array name="spinner">
+            <item>Kelas 3 SD </item>
+            <item>Kelas 4 SD</item>
+            <item>Kelas 5 SD</item>
+            <item>Kelas 6 SD</item>
+            <item>Kelas 7 SMP</item>
+            <item>Kelas 8 SMP</item>
+            <item>Kelas 9 SMP</item>
+            <item>Kelas 10 IPA</item>
+            <item>Kelas 11 IPA</item>
+            <item>Kelas 12 IPA</item>
+            <item>Kelas 10 IPS</item>
+            <item>Kelas 11 IPS</item>
+            <item>Kelas 12 IPS</item>
+            <item>UTBK Saintek</item>
+            <item>UTBK Soshum</item>
+        </string-array>
+
+</resources>
