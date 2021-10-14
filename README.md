@@ -7,5 +7,7 @@ Berikut ini merupakan tampilan dari Recycler View
 <br>
 Berikut ini merupakan tampilan dari Fragment dan bottom navigation <br>
 ![Output Fragment](https://user-images.githubusercontent.com/80298315/137068083-c8c986e4-0a71-4c3a-8c09-4a4b5e14f4c1.png)
+<br>
 Berikut ini merupakan output dari Intent
 ![Output Intent](https://user-images.githubusercontent.com/80298315/137336636-33f611cb-b0d2-4c63-9561-beaea03106f5.jpg)
+<br>
