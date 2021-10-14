@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
     }
 //intent whatsapp guna untuk menyambungkan ke link whatsapp yang dituju
     public void Hubungi (View view) {
-        String url = "https://api.whatsapp.com/send?phone=6281234261277&text=";
+        String url = "https://api.whatsapp.com/send?phone=6281234261xxx&text=";
         Intent Hubungi = new Intent(Intent.ACTION_VIEW);
         Hubungi.setData(Uri. parse(url));
         startActivity(Hubungi);
