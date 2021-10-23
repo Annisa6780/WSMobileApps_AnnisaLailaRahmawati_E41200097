@@ -11,3 +11,7 @@ Berikut ini merupakan tampilan dari Fragment dan bottom navigation <br>
 Berikut ini merupakan output dari Intent
 ![IMG_20211014_212617](https://user-images.githubusercontent.com/80298315/137337859-4fcd6982-7d78-4c0a-a70c-4e98a61c73d0.jpg)
 <br>
+Berikut ini merupakan tampilan dari Output SQLite <br>
+![Output SQLite](https://user-images.githubusercontent.com/80298315/138561873-0e68cc31-261d-4c6b-b953-e9c7ada8bfed.jpg)
+Berikut ini merupakan tampilan dari output Management File <br>
+![Output Manajement FIle](https://user-images.githubusercontent.com/80298315/138561875-a3795503-2c0c-4ec5-a93f-d1b61f77e353.jpg)
