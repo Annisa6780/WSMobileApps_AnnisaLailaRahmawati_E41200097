@@ -1,7 +1,7 @@
 # WSMobileApps_AnnisaLailaRahmawati_E41200097
 Annisa Laila Rahmawati/E41200097/TIF A </br>
 
-Berikut ini merupakan output dari Retrovolley
+Berikut ini merupakan output dari Retrovolley<br>
 ![Retrovolley](https://user-images.githubusercontent.com/80298315/142911177-ce547d31-0427-4c2c-b236-cca3941bd590.jpeg)<br>
 <br>
 Berikut ini merupakan tampilan dari output Management File <br>
